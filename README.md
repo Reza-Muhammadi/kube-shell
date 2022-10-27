@@ -14,7 +14,8 @@
 ## Enter into kube-shell
 #### use kube-shell to enter its environment:
 ` $ kube-shell `
-#### use `F10` to back/enter the kube-shell environment and also you can use ` Ctrl + d ` to exit form kube-shell environment.
+#### use `F10` to exit the kube-shell environment and also you can use ` Ctrl + d ` to exit form kube-shell environment.
+#### use `F5` to move between namespaces.
 
 ## What can we do in kube-shell?
 It is a normal shell, you can use ls and other commands of the shell. It has auto completion and when you type you can use `TAB` to complete it and it understand the mistakes and give the suggestion for correction (fuzzy search). And also it suggest based on your history.
