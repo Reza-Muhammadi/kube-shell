@@ -9,7 +9,7 @@
 
 ### check it is installed:
 ` $ which kube-shell `
-it should be under `local/bin` , it is where you get all binaries installed if you run pip alright.
+#### it should be under `local/bin` , it is where you get all binaries installed if you run pip alright.
 
 ## Enter into kube-shell
 #### use kube-shell to enter its environment:
