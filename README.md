@@ -5,7 +5,7 @@
 ` $ pip install kube-shell `
 
 ### install for current user, not entire system:
-` $ pip install --uesr kube-shell `
+` $ pip install --user kube-shell `
 
 ### check it is installed:
 ` $ which kube-shell `
